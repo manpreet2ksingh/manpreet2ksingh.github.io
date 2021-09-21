@@ -4,7 +4,7 @@ Features added
   - Scores count
   - Replay
 
-Technologies used - HTML, CSS, Bootstrap
+Technologies used - HTML, CSS, Javascript
 
 Methodology
 
