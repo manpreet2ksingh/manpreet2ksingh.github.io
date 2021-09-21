@@ -8,29 +8,6 @@ Technologies used - HTML, CSS, Bootstrap
 
 Methodology
 
-After every stroke/operation/move-----------    
- |           |                              |
- |           |                              |
- |    getWinner() - method being called     | 
- |           |                              |
- |           |                              |
- |     check Winning Pattern exits----------
- |           |
- |           | yes
- |           |
- |      select winner boxes
- |           |
- |           |
- |        freeze game
- |           |
- |           |
- |           |
- |      increment score count
- |           |
- |           |
- |       Click Replay
- |           |
- |           |
- ---------- Clear Screen
+![methodology](https://user-images.githubusercontent.com/43861933/134141948-66582871-ded0-456e-b491-fd5343431321.png)
  
  ![ttt](https://user-images.githubusercontent.com/43861933/134139868-60badfad-97e8-49fd-9d63-9bbc0af88cfa.png)
